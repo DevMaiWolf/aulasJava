@@ -53,14 +53,26 @@ https://www.devmedia.com.br/explorando-a-classe-arraylist-no-java/24298
 Fonte do exercío 10: REPETE O EXERCICIO 7
 Fonte do exercío 11: REPETE O EXERCICIO 8
 
-Fonte do exercío 12: Implemente uma calculadora, onde o usuário deve entrar com 2 números e escolhera operação que deseja realizar. Durante a execução o programa deve perguntar ao usuário se ele deseja continuar, se ele não quiser, deve digitar ‘n’ para o programa encerrar.
+Fonte do exercío 12: Implemente uma calculadora, onde o usuário deve entrar com 2 números e escolhera operação que deseja realizar. Durante a execução o programa deve perguntar ao usuário se ele deseja continuar, se ele não quiser, deve digitar ‘n’ para o programa encerrar. 
+(NESSE queria uma opção de continuar deppois do erro de operador inválido, mas não consegui...)
+
+https://www.devmedia.com.br/operadores-logicos-e-matematicos-da-linguagem-java/25248
+https://glysns.gitbook.io/java-basico/controle-de-fluxo/cases
+https://www.geeksforgeeks.org/basic-calculator-program-in-java-using-if-else-statements/
 
 Fonte do exercío 13: Escreva um programa que separa a string em duas metades e imprime a primeira parte.
 
+https://www.devmedia.com.br/java-string-manipulando-metodos-da-classe-string/29862
+https://www.alura.com.br/artigos/como-separar-palavras-de-string-em-java
+https://educationecosystem.com/blog/dividir-string-java/
+
 Fonte do exercío 14: Escreva um programa que receba uma string do usuário e imprima ela ao contrário
+
+https://cursos.alura.com.br/forum/topico-metdo-do-java-lang-que-imprime-uma-string-ao-contrario-136852
+https://codedost.com/java/strings-in-java/stringbuffer-class-in-java/java-program-for-stringbuffer-method-reverse/
 
 Fonte do exercío 15: Criar um jogo de adivinhação para descobrir quantos soldados os 300 espartanos irão enfrentar. Leônidas pede para que seus soldados tentem adivinhar quantos inimigos
 irão combater. O usuário deve digitar seu palpite e se o número for menor do que 300.000, Leônidas deve dizer Um pouco mais!, caso o número dito pelo usuário seja menor, ele dirá
 Um pouco menos!". 
-
+(NÃO consegui o 15...)
 
